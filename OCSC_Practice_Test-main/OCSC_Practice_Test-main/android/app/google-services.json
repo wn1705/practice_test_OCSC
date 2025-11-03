@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "848520441234",
+    "firebase_url": "https://ocsc-53e82-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ocsc-53e82",
+    "storage_bucket": "ocsc-53e82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848520441234:android:fca3975ca1e21e8097254b",
+        "android_client_info": {
+          "package_name": "com.ocsc.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848520441234-oqrslru0d9qkcumjs26vvoe9vd3jdpam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBouuEiOChzWcpKopwVreSdHTSOarwll4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848520441234-oqrslru0d9qkcumjs26vvoe9vd3jdpam.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848520441234-en3mis5gml60p2vamg8cctgfpu013qjl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ocsc.ocscPracticeTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848520441234:android:98ba5c3f4a423a6997254b",
+        "android_client_info": {
+          "package_name": "com.ocsc.ocsc_practice_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848520441234-9fgkgqcci6amqcn2p9s5i6emnhsscp6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ocsc.ocsc_practice_test",
+            "certificate_hash": "6b3aab699313dcc04f93b41e0d8ef9ba2de4136a"
+          }
+        },
+        {
+          "client_id": "848520441234-oqrslru0d9qkcumjs26vvoe9vd3jdpam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBouuEiOChzWcpKopwVreSdHTSOarwll4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848520441234-oqrslru0d9qkcumjs26vvoe9vd3jdpam.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848520441234-en3mis5gml60p2vamg8cctgfpu013qjl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ocsc.ocscPracticeTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

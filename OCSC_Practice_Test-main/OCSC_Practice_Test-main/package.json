@@ -1,0 +1,27 @@
+{
+  "name": "ocsc",
+  "version": "1.0.0",
+  "description": "ocsc practice test app on mobie developped by flutter",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pimkwan-k/OCSC_Practice_Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pimkwan-k/OCSC_Practice_Test/issues"
+  },
+  "homepage": "https://github.com/pimkwan-k/OCSC_Practice_Test#readme",
+  "dependencies": {
+    "firebase-admin": "^13.2.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "staging": "ocsc-53e82",
+    "default": "ocsc-53e82"
+  },
+  "targets": {},
+  "etags": {}
+}

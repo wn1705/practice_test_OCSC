@@ -1,0 +1,50 @@
+name: ocsc_practice_test
+description: "ocsc practice test app on mobie developped by flutter"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_math_fork: ^0.7.3
+  intl: ^0.20.2
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.10.1
+  cloud_firestore: ^5.6.2
+  lottie: ^3.3.1
+  fl_chart: ^0.70.2
+  firebase_auth: ^5.5.1
+  google_sign_in: ^6.2.2
+  gpt_markdown: ^1.0.12
+  uuid: ^4.5.1
+  provider: ^6.1.2
+  shared_preferences: ^2.0.15
+  flutter_launcher_icons: ^0.14.3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  percent_indicator: ^4.0.1
+
+flutter_icons:
+  android: true
+  image_path: "assets/icons/logo.png"
+  adaptive_icon_foreground: "assets/icons/logo.png"
+  adaptive_icon_background: "#FFFFFF"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/bg_dashboard.jpg
+    - assets/images/bw_leaf1.png
+    - assets/images/bw_leaf2.png
+    - assets/images/color_leaf1.png
+    - assets/images/color_leaf2.png
+    - assets/images/frog.png
+    - assets/images/google_ic.jpg
